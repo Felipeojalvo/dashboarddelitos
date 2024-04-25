@@ -1,1 +1,2 @@
-# dashboarddelitos
+# DashboardDelitos
+En este tablero realizamos una visualización de datos clásica a partir de un ejercicio previo de webscraping (con Python) de extracción de datos delictivos a través de las noticias de policiales de cuatro medios gráficos locales: 'La Capital' y 'Rosario 3' (de la ciudad de Rosario); 'Aire de Santa Fe' y 'Diario Uno' (de la ciudad de Santa Fe). Ese proceso de extracción se exporta en un excel directamente vinculado a la matriz de PowerBi, desde donde confeccionamos este Dashboard de delitos publicados en medios locales.
